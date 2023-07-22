@@ -1,5 +1,5 @@
 # SportBeast
-A fitness app
+A fitness app with a user-friendly interface
 i designed using figma,photoshop and Adobe illustrator.
 
 ![Frame 20](https://github.com/OfirZ126/SportBeast/assets/138397550/b3ea43d9-2a1b-4a55-90a9-3be5eeacac81)
